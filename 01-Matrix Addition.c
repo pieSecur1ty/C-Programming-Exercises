@@ -71,7 +71,7 @@ int main(void)
             }
         }
 
-        // Print A matrix
+        // Print A + B matrix
         printf("\n(A + B) matrix :\n");
         for (int i = 0; i < row_A; i++)
         {
